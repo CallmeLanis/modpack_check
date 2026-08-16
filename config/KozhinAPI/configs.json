@@ -1,0 +1,31 @@
+{
+  "isDebugLocal": false,
+  "isInfoLocal": true,
+  "isDebugGlobal": true,
+  "isInfoGlobal": true,
+  "disableTitleButtons": false,
+  "disablePauseButtons": false,
+  "disableAPITitleButton": false,
+  "disableAPIPauseButton": false,
+  "APITitleButtonAdd": 0,
+  "APIPauseButtonAdd": 0,
+  "placeButtonsInLeft": false,
+  "GlobalButtonsYOffset": 0,
+  "GlobalButtonsXOffset": 0,
+  "disableModUpdateChecker": false,
+  "warningMap": {
+    "dynamic_difficulty_k": 3
+  },
+  "notifiedVersionMap": {
+    "dynamic_difficulty_k": "1.1.0"
+  },
+  "force_pack_position_list": [
+    {
+      "first": {
+        "first": 1,
+        "second": true
+      },
+      "second": "Example_Pack, name must match the pack name, the number is the position of the pack and the flag is to whether calculate from top or bottom for the position."
+    }
+  ]
+}

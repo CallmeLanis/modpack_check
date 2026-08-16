@@ -1,0 +1,26 @@
+
+[sorting]
+	#整理时使用的排序方式
+	#  CATEGORY        - 按物品分类排序，同类内按名称，逐行填充（默认）
+	#  CATEGORY_COLUMN - 按物品分类排序，同类内按名称，逐列填充
+	#  NAME            - 按注册表 ID 字母顺序，逐行填充
+	#  NAME_COLUMN     - 按注册表 ID 字母顺序，逐列填充
+	#  COUNT           - 按数量从多到少，逐行填充
+	#  COUNT_ASC       - 按数量从少到多，逐行填充
+	#  CATEGORY_COUNT  - 按分类优先，同类内按数量从多到少
+	#Allowed Values: CATEGORY, CATEGORY_COLUMN, NAME, NAME_COLUMN, COUNT, COUNT_ASC, CATEGORY_COUNT
+	sortMode = "CATEGORY"
+	#整理时播放 UI 点击音效（默认开启）
+	sortSound = true
+
+[whitelist]
+	#整理时跳过的物品 ID 列表，列表中的物品不会被移动
+	#格式："minecraft:diamond"，"modid:item_name"
+	#可在游戏内 ConfigScreen 中管理
+	whitelist = []
+	#不触发整理的界面类名列表（精确匹配）
+	#格式："net.minecraft.client.gui.screens.inventory.ChestScreen"
+	#或只写末段类名："ChestScreen"（前缀匹配）
+	#可在游戏内 ConfigScreen 中管理
+	guiBlacklist = []
+

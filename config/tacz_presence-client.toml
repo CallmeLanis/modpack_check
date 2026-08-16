@@ -1,0 +1,73 @@
+
+[screen_shake]
+	#Camera shake intensity multiplier (0.0-5.0)
+	#Range: 0.0 ~ 5.0
+	ShakeMultiplier = 0.2
+	#Max camera shake intensity
+	#Range: 0.0 ~ 100.0
+	MaxShake = 15.0
+
+[hud]
+	#Gun HUD style: TACZ_HUD (original), TACZ_P_HUD (custom immersive)
+	#Allowed Values: TACZ_HUD, TACZ_P_HUD
+	GunHudType = "TACZ_P_HUD"
+
+[hud_alerts]
+	#Vertical offset for HUD alerts from center
+	#Range: -500 ~ 500
+	AlertYOffset = 60
+	#Scale of HUD alert text
+	#Range: 0.1 ~ 5.0
+	AlertScale = 1.2
+	#Show 'NO AMMO' alert
+	NoAmmoEnabled = true
+	#Color for 'NO AMMO' (Hex format: #RRGGBB)
+	NoAmmoColor = "#FF5555"
+	#Show 'RELOAD' alert
+	ReloadEnabled = true
+	#Color for 'RELOAD' (Hex format: #RRGGBB)
+	ReloadColor = "#FF5555"
+	#Show 'LOW AMMO' alert
+	LowAmmoEnabled = true
+	#Color for 'LOW AMMO' (Hex format: #RRGGBB)
+	LowAmmoColor = "#FFAA00"
+
+[sounds]
+	#Enable standard hit sound
+	EnableHitSound = true
+	#Enable super hit sound (high damage)
+	EnableSuperHitSound = true
+
+[damage_overlay]
+	#Damage overlay mode: ALL, GUNS_ONLY, OFF
+	#Allowed Values: ALL, GUNS_ONLY, OFF
+	Mode = "ALL"
+	#Global opacity for all damage overlay textures (0.0-1.0)
+	#Range: 0.0 ~ 1.0
+	Opacity = 0.8
+	#Vignette fade rate per tick (lower = slower fade)
+	#Range: 0.001 ~ 0.1
+	VignetteDecayRate = 0.0015
+
+[damage_indicator]
+	#Damage indicator mode: ALL, GUNS_ONLY, OFF
+	#Allowed Values: ALL, GUNS_ONLY, OFF
+	Mode = "ALL"
+	#Indicator distance from crosshair (0.05-0.5)
+	#Range: 0.05 ~ 0.5
+	Radius = 0.25
+	#Indicator base opacity (0.0-1.0)
+	#Range: 0.0 ~ 1.0
+	Opacity = 1.0
+
+[hit_overlay]
+	#Hit overlay mode: ALL, GUNS_ONLY, OFF
+	#Allowed Values: ALL, GUNS_ONLY, OFF
+	Mode = "ALL"
+	#Hit overlay opacity (0.0-1.0)
+	#Range: 0.0 ~ 1.0
+	Opacity = 0.8
+	#Fade out speed (higher = faster fade, 0.01-0.2)
+	#Range: 0.01 ~ 0.2
+	FadeOutSpeed = 0.05
+

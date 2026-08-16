@@ -1,0 +1,65 @@
+{
+  "entries": {
+    "MAGIC": [
+      "*summon*",
+      "*enderman*",
+      "*creeper*",
+      "minecraft:ghast",
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "minecraft:silverfish",
+      "minecraft:warden",
+      "minecraft:ravager"
+    ],
+    "EQUIPMENT_MAIN_HAND": [
+      "*spider*",
+      "*slime*",
+      "*cube*",
+      "*summon*",
+      "*enderman*",
+      "*creeper*",
+      "minecraft:ghast",
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "minecraft:silverfish",
+      "minecraft:warden",
+      "minecraft:ravager"
+    ],
+    "INFIGHTING": [],
+    "SPECIAL_ABILITIES": [],
+    "SMART_BRAIN": [],
+    "BASE_STATS": [],
+    "GUNS": [
+      "*spider*",
+      "*slime*",
+      "*cube*",
+      "*summon*",
+      "*enderman*",
+      "*creeper*",
+      "minecraft:ghast",
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "minecraft:silverfish",
+      "minecraft:warden",
+      "minecraft:ravager"
+    ],
+    "EQUIPMENT_SHIELD": [],
+    "EQUIPMENT_OFFHAND": [
+      "*spider*",
+      "*slime*",
+      "*cube*",
+      "*summon*",
+      "*enderman*",
+      "*creeper*",
+      "minecraft:ghast",
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "minecraft:silverfish",
+      "minecraft:warden",
+      "minecraft:ravager"
+    ],
+    "ALL_STATS": [],
+    "EQUIPMENT_ARMOR": [],
+    "EQUIPMENT_ALL": []
+  }
+}

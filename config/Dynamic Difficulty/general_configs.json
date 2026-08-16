@@ -1,0 +1,9 @@
+{
+  "isDebug": false,
+  "isInfo": true,
+  "disableTitleScreenButton": false,
+  "disablePauseScreenButton": false,
+  "titleButtonYAddition": 0,
+  "pauseButtonYAddition": 0,
+  "configsVersion": 1
+}
