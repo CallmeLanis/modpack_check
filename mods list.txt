@@ -1,3 +1,5 @@
+Zeta-1.0-31.jar
+
 yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
 
 yesstevemodel-forge-1.20-2.4.1-release.jar
@@ -12,17 +14,17 @@ waystones-forge-1.20.1-14.1.20.jar
 
 watut-forge-1.20.1-1.2.3.jar
 
-vs_sails-1.20.1-0.2.6-forge.jar
-
-vlib-1.20.1-0.1.1+forge.jar
-
 Valorant%20Knife%20Pack-0.1.0.jar
 
-valkyrienskies-120-2.4.9.jar
+valhelsia_structures-forge-1.20.1-1.1.2.jar
+
+valhelsia_core-forge-1.20.1-1.1.2.jar
 
 UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar
 
 towntalk-1.20.1-1.1.0.jar
+
+Towns-and-Towers-1.12-Fabric+Forge.jar
 
 tfmg-1.0.2f.jar
 
@@ -48,6 +50,8 @@ suppressionmod-1.1.1.jar
 
 structurize-1.20.1-1.0.800.jar
 
+structure_gel-1.20.1-2.16.2.jar
+
 sophisticatedcore-1.20.1-0.6.26.668.jar
 
 sophisticatedbackpacks-1.20.1-3.20.6.1064.jar
@@ -64,11 +68,13 @@ ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar
 
 rickcore-forge-1.20.1-1.1.0.jar
 
-recepie_for_exposure-2.0.0-forge-1.20.1.jar
+repurposed_structures-7.1.24+1.20.1-forge.jar
 
 radium-mc1.20.1-0.12.4+git.26c9d8e.jar
 
 Radars%200.3.5.1-Create6.jar
+
+Quark-4.0-462.jar
 
 PuzzlesLib-v8.1.33-1.20.1-Forge.jar
 
@@ -110,8 +116,6 @@ jei-1.20.1-forge-15.20.0.112.jar
 
 Jade-1.20.1-Forge-11.13.2.jar
 
-inventory_sort-1.9.jar
-
 ImmediatelyFast-Forge-1.5.4+1.20.4.jar
 
 hole_filler_mod-1.2.8_mc-1.20.1_forge.jar
@@ -123,7 +127,6 @@ guccivuitton-1.20.1-0.2.2.jar
 gravestone-forge-1.20.1-1.0.35.jar
 
 gravestonecurioscompat-1.20.x-Forge-3.0.0.jar
-
 GlitchCore-forge-1.20.1-0.0.1.1.jar
 
 gaboulibs-forge-1.7.1.jar
@@ -135,12 +138,6 @@ ftb-library-forge-2001.2.12.jar
 ferritecore-6.0.1-forge.jar
 
 Falling Tree-1.20.1-4.3.4.jar
-
-exposure-1.20.1-1.7.16-forge.jar
-
-exposure_chests-1.3-forge-1.20.1.jar
-
-eureka-1201-1.6.1.jar
 
 entityculling-forge-1.10.5-mc1.20.1.jar
 
@@ -156,6 +153,8 @@ EasyMagic-v8.0.1-1.20.1-Forge.jar
 
 dynamic_difficulty_k-1.0.0-1.20.1.jar
 
+dungeons_enhanced-1.20.1-5.4.3.jar
+
 domum_ornamentum-1.20.1-1.0.295-universal.jar
 
 DeltaForce%20Melee%20Pack-0.2.0.jar
@@ -165,6 +164,8 @@ daffas_arsenal-3.6.0.jar
 curios-forge-5.14.1+1.20.1.jar
 
 cupboard-1.20.1-4.0.jar
+
+cristellib-1.1.6-forge.jar
 
 CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
 
@@ -180,8 +181,6 @@ create-1.20.1-6.0.8.jar
 
 Create_Waystone_Recipes_1.19_v2.jar
 
-create_sophback_compat-1.0.jar
-
 create_security-0.1.2-forge-1.20.1.jar
 
 create_enchantment_industry-1.3.3-for-create-6.0.6.jar
@@ -189,6 +188,8 @@ create_enchantment_industry-1.3.3-for-create-6.0.6.jar
 CrashAssistant-forge-1.19-1.20.1-1.10.28.jar
 
 coroutil-forge-1.20.1-1.3.7.jar
+
+cloth-config-11.1.136-forge.jar
 
 chamber_clarity-4.0.0-1.20.1.jar
 
@@ -203,6 +204,8 @@ BCLib-20.0.3.jar
 balm-forge-1.20.1-7.3.42.jar
 
 baguettelib-1.20.1-Forge-1.1.5.jar
+
+AutoLeveling-1.20-1.19b.jar
 
 Arena%20Breakout%20lnfinite%20Melee%20Pack-0.1.0.jar
 
